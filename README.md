@@ -4,12 +4,12 @@ Two data sets are used
 1st one from - https://www.census2011.co.in/district.php
 A snapshot of the data
 
-#	District	State	       Population     Growth      	Sex-Ratio       	Literacy
-1	Thane	    Maharashtra	  11,060,148	  36.01 %	        886	              84.53
-2	Parganas	West Bengal	  10,009,781	  12.04 %	        955	              84.06
-3	Bangalore	Karnataka	     9,621,551	  47.18 %	        916	              87.67
-4	Pune	    Maharashtra	   9,429,408	  30.37 %	        915	              86.15
-5	Mumbai   	Maharashtra	   9,356,962	   8.29 %         860	              89.91  
+#	District	State	       Population     Growth      	Sex-Ratio   Literacy
+1	Thane	    Maharashtra	  11,060,148	  36.01 %	        886	        84.53
+2	Parganas	West Bengal	  10,009,781	  12.04 %	        955	        84.06
+3	Bangalore	Karnataka	     9,621,551	  47.18 %	        916	        87.67
+4	Pune	    Maharashtra	   9,429,408	  30.37 %	        915	        86.15
+5	Mumbai   	Maharashtra	   9,356,962	   8.29 %         860	        89.91  
 
 2nd one from - https://www.census2011.co.in/literacy.php
 
